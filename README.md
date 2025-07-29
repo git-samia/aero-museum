@@ -16,8 +16,8 @@ This project suite is divided into four key components, each representing a cruc
 * **Description:** This component involved creating an Entity-Relationship Diagram (ERD) to visually represent the relationships between various entities (e.g., Employees, Exhibits, Visitors, Artifacts, Loans) within the museum's ecosystem. The design focused on achieving data integrity, minimizing redundancy, and ensuring scalability for future growth.
 * **Tools Used:** `draw.io`
 * **Key Deliverables:**
-    * `DM_SamiaKatingiri_B01.drawio.jpg`: The final ERD illustrating the database schema.
-    * `BTM 211 611_AAM_DM_Requirements_Winter 2025_v2.docx`: Data Modeling requirements document.
+    * `data-model.drawio.png`: The final ERD illustrating the database schema.
+    * `DM-problem-defn.pdf`: Data Modeling requirements document.
 
 ### 2. Database (DB)
 
