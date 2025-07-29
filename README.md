@@ -25,9 +25,9 @@ This project suite is divided into four key components, each representing a cruc
 * **Description:** Based on the ERD, a SQLite database was created. This involved defining tables, setting up primary and foreign key constraints, and populating the database with sample data (from `Alberta_Aerospace_Museum_Data_Winter_2025_v1.xlsx - Data.csv`). Advanced SQL queries were developed to retrieve, update, and analyze data efficiently.
 * **Tools Used:** SQLite
 * **Key Deliverables:**
-    * `DB_SamiaKatingiri_B01.db`: The SQLite database file.
-    * `DB_SamiaKatingiri_B01.pdf`: Database assignment document, including SQL queries and outputs.
-    * `Alberta_Aerospace_Museum_Data_Winter_2025_v1.xlsx - Data.csv`: Raw data used for database population.
+    * `database.db`: The SQLite database file.
+    * `DB.pdf`: Database assignment document, including SQL queries and outputs.
+    * `AAM-data.xlsx - Data.csv`: Raw data used for database population.
 
 ### 3. Project Management (PM)
 
@@ -35,7 +35,7 @@ This project suite is divided into four key components, each representing a cruc
 * **Description:** This phase encompassed outlining project scope, objectives, deliverables, timelines, and resource allocation. A comprehensive project management document was created, detailing stakeholder analysis, risk assessment, and communication plans, ensuring a structured approach to project execution.
 * **Tools Used:** Microsoft Word (for documentation)
 * **Key Deliverables:**
-    * `PM_SamiaKatingiri_B01.pdf`: The Project Management document, detailing the project plan and execution strategy.
+    * `PM_req-doc.pdf`: The Project Management document, detailing the project plan and execution strategy.
 
 ### 4. Business Analytics (BA)
 
